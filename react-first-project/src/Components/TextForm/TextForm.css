@@ -1,0 +1,14 @@
+.my-btn{
+    padding: 0.5rem;
+    margin: 5px;
+    color: black;
+    background-color: beige;
+}
+
+.content-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: aquamarine;
+}
